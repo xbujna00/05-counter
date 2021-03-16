@@ -99,3 +99,5 @@ end process p_cnt_up_down;
     end process p_stimulus;
 
 ```
+# Screneshot with simulated time waveforms
+![](waveform.png)
