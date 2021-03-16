@@ -208,4 +208,5 @@ LED(3 downto 0) <= s_cnt;
 ```
 # Image of the top layer including both counters , ie a 4-bit bidirectional counter from Part 4 and a 16 - bit counter with a a10 ms time base from Part Experiments on your own
 ![](sch.png)
+ cnt_o - LED(15:0)
 
