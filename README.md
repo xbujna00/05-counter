@@ -4,12 +4,12 @@
 When the button is "0" (0V is on the input pin)
 When the button is "1" (3,3V is on the input pin)
 
-# Component     PIN
-BTNC          N17
-BTND          P18
-BTNU          M18
-BTNR          M17
-BTNL          P17
+# |**Component**|     |**PIN**|
+|BTNC|          |N17|
+|BTND|          |P18|
+|BTNU|          |M18|
+|BTNR|          |M17|
+|BTNL|          |P17|
 
 # Table with calculated valuse of periods for frequency 100MHz
 
