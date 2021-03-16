@@ -26,7 +26,7 @@ When the button is "1" (3,3V is on the input pin)
 # Bidirectional counter
 VHDL code of the process p_cnt_up_down with syntax
 
-```vhld
+```vhdl
 
      p_cnt_up_down : process(clk)
 begin
